@@ -1,0 +1,9 @@
+platformName=Android
+platformVersion=5.1.1
+appPackage=com.android.contacts
+deviceName=15983806
+appActivity=.activities.PeopleActivity
+unicodeKeyboard=true
+resetKeyboard=true
+newCommandTimeout=150
+remoteHost=http://127.0.0.1:4723/wd/hub
